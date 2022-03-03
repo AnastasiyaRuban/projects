@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <image id="tripadvisor" class="cls-1" width="25" height="25" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAACpElEQVRIib2Wy0tVURTGf+t2zUpBoacZWTRoUhpBIWUvIySigQRB/QM26M8JahY0CoKkQKgGFmGkNIhMatLE7PbgYhlRPkpXLP2OnnuPmXSlDw4Hzt7r+9Zej72OuTvlMLP5L+5eBTQBjUA9kANmgDGgAAyb2c8MSQr5zJcF8jqgDWgGqjMbFjDp7oNAn5l9zayG04uQx7dWoB2oylj8GXGaXqDfzErCUyLi7quATmDPH6n+jiGg28ymk525shNUKoDsO8VXKqIQVSqQFmotEVGS2zNbK0O7eOerq22JJH8E3ug9FT4pl7F/K7Ab2JCxmlsP3p68+qBZCxN6AkXgIbAGOA4cKgvvL2AEuAtEwRwB1mmtVk+zuz/Iq9GSPvgGXDWzGXevAbYDUSW3JXIwJfIceAKsl/gtMxtXwrskErxNeXVygo0RAndvADpS4ZyQx5Py+DHwAbikkwam3P0e8A7YkuJszOuqSFAU8RlgAHgtL48B54BrwE71Qpdy9VS2+4GzwHU50KDv9bmyOAdpi5JcEHmHOjmn0rwD7FUYB7R+EhhUuPeJJ0Eur8suQYRjE/AF2CYvm5TQuDZqzKzo7rUijPC+AsZl9117CynOmZxu0wSx8ROwC3gpr6pUsqsVhqSsI+GfZRMhfA9sln26pMdyZapR8y/k2UV5u1b5KCokSWWNAufVO1EYF4Af2tOS4ixEuIYVpmpVymngBnBC/TMt4T7glLvfjzdwEziqPJmK4JHsk36ZnJ03zF0rUU0HUuqj6oERJXyH+qROJ2/UKWPPW90CUU2HFcYEz8ysJxEJ48tLXC3/giiUKzHIZstXE613BQUCvcmkTPdIv5psJTAkPkpENDK7V0AomYzzI/j/z/gysWX/rag3lv+3sohYZf9dwG/x0d6kFtqwBgAAAABJRU5ErkJggg=="/>
+</svg>
